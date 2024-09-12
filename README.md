@@ -1,5 +1,4 @@
-
-
+## Olá, eu sou o Bruno Crispim
 
 - 👀  Estou interessado em ampliar meus conhecimentos e lapidalos
 - 🌱 Atualmente estou aprendendo Construção de Página Web, Projeto e Desenvolvimento de Algoritmos, Organização de Computadores
@@ -31,7 +30,6 @@
   <a href ="mailto:brunodepaulacrispim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-crispim-a7b464264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
+  ![snake gif](https://github.com/brunocrispim19/brunocrispim19/blob/output/github-github-contribution-grid-snake.gif)
+  
 </div> 
-
- ![snake gif](https://github.com/brunocrispim19/brunocrispim19/blob/output/github-github-contribution-grid-snake.gif)
