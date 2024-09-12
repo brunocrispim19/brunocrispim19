@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno crispim
+
 
 
 - 👀  Estou interessado em ampliar meus conhecimentos e lapidalos
